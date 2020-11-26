@@ -1,4 +1,4 @@
-# myra
+# Vue app
 
 ## Build Setup
 
